@@ -1,0 +1,11 @@
+output.txt
++ 3 5 
+- 2 4
+* 100 20
+# here is a divison operation
+/ 40 2
+# the next line is intentionally blank
+
+* 10 20
+# here is another addition
++ 100 20

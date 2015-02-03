@@ -1,0 +1,3 @@
+Won: true
+Hand: [], [2, 2, 2, 2]
+Draw Pile: [0, 5, 3, 4, 0]

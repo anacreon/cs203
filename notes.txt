@@ -1,0 +1,26 @@
+Written part(no more than 1 hour)
+Quene/Stacks
+Which is suited for what?
+I/O
+what streams are used for what?
+binary I/O
+
+random Access File
+
+Collection Ideas
+Maps/sets/lists
+differences between them.
+
+Iterator interface
+how is it used?
+
+1 debugging question.
+what is the output/wrong with it?
+
+Exceptions
+
+Recursion
+
+
+
+
